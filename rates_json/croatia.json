@@ -1,0 +1,14 @@
+{
+  "name": "Croatia",
+  "code": "HR",
+  "country_code": "HR",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 13.0,
+        "standard": 25.0
+      }
+    }
+  ]
+}

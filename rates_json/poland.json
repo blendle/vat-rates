@@ -1,0 +1,14 @@
+{
+  "name": "Poland",
+  "code": "PL",
+  "country_code": "PL",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 8.0,
+        "standard": 23.0
+      }
+    }
+  ]
+}

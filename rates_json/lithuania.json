@@ -1,0 +1,14 @@
+{
+  "name": "Lithuania",
+  "code": "LT",
+  "country_code": "LT",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 9.0,
+        "standard": 21.0
+      }
+    }
+  ]
+}

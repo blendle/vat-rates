@@ -1,0 +1,27 @@
+{
+  "name": "Germany",
+  "code": "DE",
+  "country_code": "DE",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 7.0,
+        "standard": 19.0
+      }
+    },
+    {
+      "rates": {
+        "reduced": 5.0,
+        "standard": 16.0
+      },
+      "effective_from": "2020-07-01"
+    },
+    {
+      "rates": {
+        "reduced": 7.0,
+        "standard": 19.0
+      },
+      "effective_from": "2021-01-01"
+    }
+  ]
+}

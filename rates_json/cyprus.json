@@ -1,0 +1,14 @@
+{
+  "name": "Cyprus",
+  "code": "CY",
+  "country_code": "CY",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 9.0,
+        "standard": 19.0
+      }
+    }
+  ]
+}

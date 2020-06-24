@@ -1,0 +1,13 @@
+{
+  "name": "Czech Republic",
+  "code": "CZ",
+  "country_code": "CZ",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 15.0,
+        "standard": 21.0
+      }
+    }
+  ]
+}

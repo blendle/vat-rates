@@ -1,0 +1,13 @@
+{
+  "name": "Slovakia",
+  "code": "SK",
+  "country_code": "SK",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 10.0,
+        "standard": 20.0
+      }
+    }
+  ]
+}

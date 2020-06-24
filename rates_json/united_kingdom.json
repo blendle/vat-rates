@@ -1,0 +1,14 @@
+{
+  "name": "United Kingdom",
+  "code": "UK",
+  "country_code": "GB",
+  "periods": [
+    {
+      "rates": {
+        "standard": 20.0,
+        "reduced": 5.0
+      },
+      "effective_from": "2011-01-04"
+    }
+  ]
+}

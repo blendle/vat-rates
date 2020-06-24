@@ -1,0 +1,15 @@
+{
+  "name": "Portugal",
+  "code": "PT",
+  "country_code": "PT",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 6.0,
+        "reduced2": 13.0,
+        "standard": 23.0,
+        "parking": 13.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "France",
+  "code": "FR",
+  "country_code": "FR",
+  "periods": [
+    {
+      "rates": {
+        "super_reduced": 2.1,
+        "reduced1": 5.5,
+        "standard": 19.6
+      }
+    },
+    {
+      "rates": {
+        "super_reduced": 2.1,
+        "reduced1": 5.5,
+        "reduced2": 7.0,
+        "standard": 19.6
+      },
+      "effective_from": "2012-01-01"
+    },
+    {
+      "rates": {
+        "super_reduced": 2.1,
+        "reduced1": 5.5,
+        "reduced2": 10.0,
+        "standard": 20.0
+      },
+      "effective_from": "2014-01-01"
+    }
+  ]
+}

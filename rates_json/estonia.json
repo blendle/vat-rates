@@ -1,0 +1,13 @@
+{
+  "name": "Estonia",
+  "code": "EE",
+  "country_code": "EE",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 9.0,
+        "standard": 20.0
+      }
+    }
+  ]
+}

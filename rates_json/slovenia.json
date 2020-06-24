@@ -1,0 +1,13 @@
+{
+  "name": "Slovenia",
+  "code": "SI",
+  "country_code": "SI",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 9.5,
+        "standard": 22.0
+      }
+    }
+  ]
+}

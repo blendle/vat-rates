@@ -1,0 +1,13 @@
+{
+  "name": "Bulgaria",
+  "code": "BG",
+  "country_code": "BG",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 9.0,
+        "standard": 20.0
+      }
+    }
+  ]
+}

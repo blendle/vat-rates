@@ -1,0 +1,27 @@
+{
+  "name": "Netherlands",
+  "code": "NL",
+  "country_code": "NL",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 6.0,
+        "standard": 19.0
+      }
+    },
+    {
+      "rates": {
+        "reduced": 6.0,
+        "standard": 21.0
+      },
+      "effective_from": "2012-10-01"
+    },
+    {
+      "rates": {
+        "reduced": 9.0,
+        "standard": 21.0
+      },
+      "effective_from": "2019-01-01"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Sweden",
+  "code": "SE",
+  "country_code": "SE",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 6.0,
+        "reduced2": 12.0,
+        "standard": 25.0
+      }
+    }
+  ]
+}

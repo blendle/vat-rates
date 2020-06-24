@@ -1,0 +1,30 @@
+{
+  "name": "Romania",
+  "code": "RO",
+  "country_code": "RO",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 9.0,
+        "standard": 24.0
+      }
+    },
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 9.0,
+        "standard": 20.0
+      },
+      "effective_from": "2016-01-01"
+    },
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 9.0,
+        "standard": 19.0
+      },
+      "effective_from": "2017-01-01"
+    }
+  ]
+}

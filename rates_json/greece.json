@@ -1,0 +1,30 @@
+{
+  "name": "Greece",
+  "code": "EL",
+  "country_code": "GR",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 6.5,
+        "reduced2": 13.0,
+        "standard": 23.0
+      }
+    },
+    {
+      "rates": {
+        "reduced1": 6.0,
+        "reduced2": 13.5,
+        "standard": 23.0
+      },
+      "effective_from": "2016-01-01"
+    },
+    {
+      "rates": {
+        "reduced1": 6.0,
+        "reduced2": 13.5,
+        "standard": 24.0
+      },
+      "effective_from": "2016-06-01"
+    }
+  ]
+}

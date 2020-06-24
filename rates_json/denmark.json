@@ -1,0 +1,12 @@
+{
+  "name": "Denmark",
+  "code": "DK",
+  "country_code": "DK",
+  "periods": [
+    {
+      "rates": {
+        "standard": 25.0
+      }
+    }
+  ]
+}

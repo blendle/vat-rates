@@ -1,0 +1,14 @@
+{
+  "name": "Italy",
+  "code": "IT",
+  "country_code": "IT",
+  "periods": [
+    {
+      "rates": {
+        "super_reduced": 4.0,
+        "reduced": 10.0,
+        "standard": 22.0
+      }
+    }
+  ]
+}

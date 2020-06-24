@@ -1,0 +1,14 @@
+{
+  "name": "Hungary",
+  "code": "HU",
+  "country_code": "HU",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 18.0,
+        "standard": 27.0
+      }
+    }
+  ]
+}

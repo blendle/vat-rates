@@ -1,0 +1,14 @@
+{
+  "name": "Malta",
+  "code": "MT",
+  "country_code": "MT",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 5.0,
+        "reduced2": 7.0,
+        "standard": 18.0
+      }
+    }
+  ]
+}

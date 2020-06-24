@@ -1,0 +1,35 @@
+{
+  "name": "Luxembourg",
+  "code": "LU",
+  "country_code": "LU",
+  "periods": [
+    {
+      "rates": {
+        "super_reduced": 3.0,
+        "reduced1": 6.0,
+        "reduced2": 12.0,
+        "standard": 15.0,
+        "parking": 12.0
+      }
+    },
+    {
+      "rates": {
+        "super_reduced": 3.0,
+        "reduced1": 8.0,
+        "reduced2": 14.0,
+        "standard": 17.0,
+        "parking": 12.0
+      },
+      "effective_from": "2015-01-01"
+    },
+    {
+      "rates": {
+        "super_reduced": 3.0,
+        "reduced1": 8.0,
+        "standard": 17.0,
+        "parking": 13.0
+      },
+      "effective_from": "2016-01-01"
+    }
+  ]
+}

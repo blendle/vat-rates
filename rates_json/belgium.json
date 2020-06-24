@@ -1,0 +1,15 @@
+{
+  "name": "Belgium",
+  "code": "BE",
+  "country_code": "BE",
+  "periods": [
+    {
+      "rates": {
+        "reduced1": 6.0,
+        "reduced2": 12.0,
+        "standard": 21.0,
+        "parking": 12.0
+      }
+    }
+  ]
+}

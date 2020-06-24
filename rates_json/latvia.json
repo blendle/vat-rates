@@ -1,0 +1,13 @@
+{
+  "name": "Latvia",
+  "code": "LV",
+  "country_code": "LV",
+  "periods": [
+    {
+      "rates": {
+        "reduced": 12.0,
+        "standard": 21.0
+      }
+    }
+  ]
+}
