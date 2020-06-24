@@ -12,7 +12,8 @@
             "reduced1": 10.0,
             "reduced2": 14.0,
             "standard": 24.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -26,7 +27,8 @@
             "reduced1": 5.0,
             "reduced2": 7.0,
             "standard": 18.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -53,7 +55,8 @@
           "rates": {
             "reduced": 6.0,
             "standard": 19.0
-          }
+          },
+          "effective_from": "0001-01-01"
         },
         {
           "rates": {
@@ -81,7 +84,8 @@
             "super_reduced": 4.0,
             "reduced": 10.0,
             "standard": 22.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -95,7 +99,8 @@
             "reduced1": 5.0,
             "reduced2": 8.0,
             "standard": 23.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -109,7 +114,8 @@
             "reduced1": 5.0,
             "reduced2": 9.0,
             "standard": 24.0
-          }
+          },
+          "effective_from": "0001-01-01"
         },
         {
           "rates": {
@@ -141,7 +147,8 @@
             "reduced2": 12.0,
             "standard": 15.0,
             "parking": 12.0
-          }
+          },
+          "effective_from": "0001-01-01"
         },
         {
           "rates": {
@@ -174,7 +181,8 @@
             "reduced1": 5.0,
             "reduced2": 13.0,
             "standard": 25.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -188,7 +196,8 @@
             "reduced": 10.0,
             "standard": 20.0,
             "parking": 12.0
-          }
+          },
+          "effective_from": "0001-01-01"
         },
         {
           "rates": {
@@ -212,7 +221,8 @@
             "reduced2": 13.0,
             "standard": 23.0,
             "parking": 13.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -225,7 +235,8 @@
           "rates": {
             "reduced": 12.0,
             "standard": 21.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -241,7 +252,8 @@
             "reduced2": 13.5,
             "standard": 23.0,
             "parking": 13.5
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -254,7 +266,8 @@
           "rates": {
             "reduced": 10.0,
             "standard": 20.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -267,7 +280,8 @@
           "rates": {
             "reduced": 9.5,
             "standard": 22.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -280,7 +294,8 @@
           "rates": {
             "reduced": 9.0,
             "standard": 20.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -294,7 +309,8 @@
             "reduced1": 6.5,
             "reduced2": 13.0,
             "standard": 23.0
-          }
+          },
+          "effective_from": "0001-01-01"
         },
         {
           "rates": {
@@ -324,7 +340,8 @@
             "super_reduced": 4.0,
             "reduced": 10.0,
             "standard": 21.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -337,7 +354,8 @@
           "rates": {
             "reduced": 9.0,
             "standard": 20.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -349,7 +367,8 @@
         {
           "rates": {
             "standard": 25.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -363,7 +382,8 @@
             "reduced1": 5.0,
             "reduced2": 18.0,
             "standard": 27.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -376,7 +396,8 @@
           "rates": {
             "reduced": 7.0,
             "standard": 19.0
-          }
+          },
+          "effective_from": "0001-01-01"
         },
         {
           "rates": {
@@ -403,7 +424,8 @@
           "rates": {
             "reduced": 15.0,
             "standard": 21.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -417,7 +439,8 @@
             "reduced1": 5.0,
             "reduced2": 9.0,
             "standard": 21.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -432,7 +455,8 @@
             "reduced2": 12.0,
             "standard": 21.0,
             "parking": 12.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -446,7 +470,8 @@
             "super_reduced": 2.1,
             "reduced1": 5.5,
             "standard": 19.6
-          }
+          },
+          "effective_from": "0001-01-01"
         },
         {
           "rates": {
@@ -478,7 +503,8 @@
             "reduced1": 5.0,
             "reduced2": 9.0,
             "standard": 19.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     },
@@ -492,7 +518,8 @@
             "reduced1": 6.0,
             "reduced2": 12.0,
             "standard": 25.0
-          }
+          },
+          "effective_from": "0001-01-01"
         }
       ]
     }
