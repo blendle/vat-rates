@@ -4,7 +4,7 @@ This is a continuation of adamcooke/vat-rates, which was archived and is no long
 I do not intend to keep this project updated by doing my own research, but will depend on your PRs to keep the infomation up to date.
 
 Instead of hosting the json on jsonvat.com, as Adam did before, this fork only contains JSON versions of all countries, and no ruby files.
-The json files can be used directly from the git "raw" url.
+The json files can be used directly from [here](https://raw.githubusercontent.com/paulluuk/vat-rates/master/vat_rates.json).
 
 ## Important Notes
 
