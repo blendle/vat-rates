@@ -6,6 +6,10 @@ I do not intend to keep this project updated by doing my own research, but will 
 Instead of hosting the json on jsonvat.com, as Adam did before, this fork only contains JSON versions of all countries, and no ruby files.
 The json files can be used directly from [here](https://raw.githubusercontent.com/paulluuk/vat-rates/master/vat_rates.json).
 
+Adam still has [his JSON-vat ruby project](https://github.com/adamcooke/json-vat) online, which you can configure to point to the file above, if you are using ruby.
+
+If you are using Python, have a look at `example_Fetch.py` on how to extract the value you want.
+
 ## Important Notes
 
 This information is provided on an as-is basis. The authors or contributors cannot be held responsible for its accuracy or completeness. You use the data provided here entirely at your own risk.
